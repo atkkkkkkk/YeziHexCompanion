@@ -1,0 +1,10 @@
+椰子海斗助手 · YeziCompanion 2.2.2
+
+Champion statistics and portrait assets: ARAMKit (https://aramkit.com/zh-CN).
+League of Legends characters and related assets belong to their respective owners.
+
+SkiaSharp 3.119.4
+https://github.com/mono/SkiaSharp
+https://www.nuget.org/packages/SkiaSharp/3.119.4
+The SkiaSharp library is distributed under the MIT license.
+See SkiaSharp-LICENSE.txt and SkiaSharp-THIRD-PARTY-NOTICES.txt for license terms.
